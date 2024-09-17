@@ -6,7 +6,6 @@ replicaCount: 1
 
 image:
   repository: shaikmustafa/cycle
-  tag: 0.1
   pullPolicy: IfNotPresent
 
 containerPort: 80
